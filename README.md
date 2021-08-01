@@ -1,9 +1,7 @@
 <p align="center">
- <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=WilliamVenner"/>
- <br/><br/>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVenner&layout=compact&hide_border=true&bg_color=ffffff&langs_count=999">
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVenner&layout=compact&hide_border=true&langs_count=999&theme=dark">
  <br/>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=WilliamVenner&layout=compact&custom_title=My%20Week&hide_border=true"/>
-  <br/>
-<img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=WilliamVenner&hide_border=true&bg_color=ffffff&count_private=true&show_icons=true&include_all_commits=true">
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=WilliamVenner&layout=compact&custom_title=My%20Week&hide_border=true&theme=dark"/>
+ <br/><br/>
+ <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=WilliamVenner"/>
 </p>
