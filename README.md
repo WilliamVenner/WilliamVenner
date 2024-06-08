@@ -12,5 +12,5 @@
 </p>
 
 ```math
-\ce{$\unicode[goombafont; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: url('https://camo.githubusercontent.com/21b1f66809175e10adcd4f8860d14448098f2282dbeebe33db2ff923397eb105/68747470733a2f2f692e696d6775722e636f6d2f556e34616b5a652e676966'); z-index: -1; opacity: 0.075; pointer-events: none; user-select: none; background-size: 5rem;]{x0000}$}
+\ce{$\unicode[goombafont; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: url('https://camo.githubusercontent.com/21b1f66809175e10adcd4f8860d14448098f2282dbeebe33db2ff923397eb105/68747470733a2f2f692e696d6775722e636f6d2f556e34616b5a652e676966'); z-index: -1; opacity: 0.1; pointer-events: none; user-select: none;]{x0000}$}
 ```
